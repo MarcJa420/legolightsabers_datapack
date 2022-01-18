@@ -1,0 +1,6 @@
+name: lightsabers
+dependencies:
+  objd: ^0.4.4
+  objd_crafting: 0.2.0
+environment:
+  sdk: '>=2.15.0 <3.0.0'
